@@ -1,7 +1,7 @@
 [project]
-name = "mypkg"
+name = "Consumer_Sentiment_Comparison"
 version = "0.0.1"
-description = "Final Project Group Repository for COMPSS-211"
+description = "Final Project Group Repository for Consumer Sentiment Comparison"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
