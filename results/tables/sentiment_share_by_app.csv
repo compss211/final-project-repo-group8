@@ -1,0 +1,13 @@
+AppName,sentiment_category,share
+Amazon shopping,Negative,0.3368723041023103
+Amazon shopping,Neutral,0.11957411130079905
+Amazon shopping,Positive,0.5435535845968907
+Lazada,Negative,0.3217236651969321
+Lazada,Neutral,0.08948089962577346
+Lazada,Positive,0.5887954351772945
+Shein,Negative,0.159106062476849
+Shein,Neutral,0.028003457216940364
+Shein,Positive,0.8128904803062107
+eBay online shopping & selling,Negative,0.1782198590900112
+eBay online shopping & selling,Neutral,0.0768502666754461
+eBay online shopping & selling,Positive,0.7449298742345427
