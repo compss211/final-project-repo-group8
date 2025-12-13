@@ -9,6 +9,3 @@ def format_currency(amount, currency="USD"):
     symbols = {"USD": "$", "EUR": "€", "GBP": "£"}
     symbol = symbols.get(currency, "$")
     return f"{symbol}{amount:.2f}"
-
-
-
